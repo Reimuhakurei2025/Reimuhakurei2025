@@ -6,22 +6,6 @@
 
 I'm exploring different areas of technology, from application development to systems and infrastructure. Sometimes I write code, sometimes I debug code, and sometimes I just stare at errors until they give up.<br><br>
 
-## Things I Work With
-
-* Building applications and websites
-* Linux and system administration
-* Automation and scripting
-* Learning new technologies because apparently collecting skills is a hobby now
-
-## Current Adventures
-
-Currently working on projects involving:
-
-* Building useful applications for real-world problems
-* Experimenting with servers and old hardware
-* Understanding how systems work behind the scenes
-* Creating projects beyond simple tutorials
-
 ## Always Learning
 
 Currently improving my skills in:
@@ -32,6 +16,7 @@ Currently improving my skills in:
 * Infrastructure
 * Cloud and deployment
 * Software engineering practices
+* Gooning
 
 ## Outside of Code
 
