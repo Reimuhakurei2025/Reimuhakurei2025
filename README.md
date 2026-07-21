@@ -1,5 +1,56 @@
 # 💫 About Me:
-# Hey, I'm Zakky 👋<br><br>🎓 Informatics Engineering student who likes breaking things, fixing them, and pretending it was intentional.<br><br>I'm currently exploring the world of technology, from building applications to playing around with servers and infrastructure. Sometimes I write code, sometimes I debug code, and sometimes I stare at the error message hoping it gets scared and disappears.<br><br>## 🛠️ Things I Work With<br><br>* 💻 Building applications and websites<br>* 🐧 Linux & system administration<br>* 🖥️ Homelab and self-hosted services<br>* 🌐 Networking & server stuff<br>* ⚙️ Automation and scripting<br>* 📦 Learning new tools because apparently collecting technologies is a hobby now<br><br>## 🚀 Current Adventures<br><br>Currently experimenting with:<br><br>* Building useful applications for real-world problems<br>* Turning old hardware into something actually useful<br>* Learning how systems work behind the scenes<br>* Creating projects that are more than just "tutorial follow-alongs"<br><br>## 📚 Always Learning<br><br>Currently improving my skills in:<br><br>* Linux<br>* Git & GitHub workflow<br>* Backend & application development<br>* Infrastructure<br>* Cloud & deployment<br>* Software engineering practices<br><br>## 🎧 Outside of Code<br><br>When I'm not fighting bugs:<br><br>* 🎵 Listening to way too many genres of music<br>* 🌸 Enjoying Touhou music and doujin culture<br>* 🍥 Watching anime and reading manga<br>* 🏍️ Exploring places on two wheels<br>* 🤔 Wondering why my code worked yesterday but doesn't work today<br><br>## 🎯 Goal<br><br>To become someone who can build and maintain reliable systems — from small applications to larger infrastructure.<br><br>Basically, I want to understand how things work, build cool stuff, and hopefully not accidentally delete production someday.<br><br>---<br><br>⭐ Thanks for visiting my profile!<br>
+# Hey, I'm Zakky 👋<br><br>
+🎓 Informatics Engineering student who enjoys building things, breaking things, and figuring out why they broke.<br><br>
+
+I'm exploring different areas of technology, from application development to systems and infrastructure. Sometimes I write code, sometimes I debug code, and sometimes I just stare at errors until they give up.<br><br>
+
+## Things I Work With
+
+* Building applications and websites
+* Linux and system administration
+* Homelab and self-hosted services
+* Networking and server management
+* Automation and scripting
+* Learning new technologies because apparently collecting skills is a hobby now
+
+## Current Adventures
+
+Currently working on projects involving:
+
+* Building useful applications for real-world problems
+* Experimenting with servers and old hardware
+* Understanding how systems work behind the scenes
+* Creating projects beyond simple tutorials
+
+## Always Learning
+
+Currently improving my skills in:
+
+* Linux
+* Git and GitHub workflow
+* Backend development
+* Infrastructure
+* Cloud and deployment
+* Software engineering practices
+
+## Outside of Code
+
+When I'm away from the terminal:
+
+* Listening to various genres of music
+* Enjoying Touhou music and doujin culture
+* Watching anime and reading manga
+* Exploring places by motorcycle
+* Wondering why my code worked yesterday but doesn't work today
+
+## Goal
+
+I want to become someone who can build and maintain reliable systems, from small applications to larger infrastructure.
+
+Basically, I like understanding how things work, building useful stuff, and trying not to accidentally delete something important.
+
+---
+Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
