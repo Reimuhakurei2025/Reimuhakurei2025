@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://cdn.pfps.gg/banners/8656-touhou.png" width="100%" />
 </p>
+
 # Hey, I'm Zakky 👋 <br><br>
 🎓 Informatics Engineering student who enjoys building things, breaking things, and figuring out why they broke.<br><br>
 
