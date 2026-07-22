@@ -5,7 +5,7 @@
 # Hey, I'm Zakky 👋 <br><br>
 🎓 Informatics Engineering student who enjoys building things, breaking things, and figuring out why they broke.<br><br>
 
-I'm exploring different areas of technology, from application development to systems and infrastructure. Sometimes I write code, sometimes I debug code, and sometimes gooning to code.<br><br>
+I'm exploring different areas of technology, from application development to systems and infrastructure. Sometimes I write code, sometimes I debug code, and sometimes gooning to a code.<br><br>
 
 ## Always Learning
 
