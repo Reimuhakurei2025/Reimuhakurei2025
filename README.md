@@ -25,7 +25,7 @@ When I'm away from the terminal:
 * Listening to various genres of music
 * Enjoying Touhou music and doujin culture
 * Watching anime and reading manga
-* Exploring places by motorcycle
+* Touring With Vario
 * Wondering why my code worked yesterday but doesn't work today
 
 ## Goal
