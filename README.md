@@ -20,7 +20,7 @@ Currently improving my skills in:
 
 ## Outside of Code
 
-When I'm away from the terminal:
+When I'm away from my laptop:
 
 * Listening to various genres of music
 * Enjoying Touhou music and doujin culture
