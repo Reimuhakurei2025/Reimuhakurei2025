@@ -30,9 +30,7 @@ When I'm away from the terminal:
 
 ## Goal
 
-I want to become someone who can build and maintain reliable systems, from small applications to larger infrastructure.
-
-Basically, I like understanding how things work, building useful stuff, and trying not to accidentally delete something important.
+I just Want To Be Happy
 
 ---
 Thanks for visiting my profile!
