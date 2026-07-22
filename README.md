@@ -30,7 +30,7 @@ When I'm away from my laptop:
 
 ## Goal
 
-I just Want To Be Happy and Have a Lot Money
+I Just Want to be Happy and Have a Lot Money
 
 ---
 Thanks for visiting my profile!
