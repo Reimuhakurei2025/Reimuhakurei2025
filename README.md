@@ -45,7 +45,7 @@ Favorite aspects:
 * Doujin works and fan creations
 * The creativity of the Touhou community
 
-Touhou is one of the reasons I enjoy exploring music beyond mainstream genres.
+Touhou is one of the reasons I enjoy exploring ALL music genres.
 
 ## Goal
 
