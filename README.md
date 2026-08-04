@@ -29,6 +29,24 @@ When I'm away from my laptop:
 * Touring With Vario
 * Wondering why my code worked yesterday but doesn't work today
 
+## 🎵 Touhou Corner
+
+A huge fan of **Touhou Project**, especially in music, characters, and doujin culture.
+
+Favorite characters:
+
+<img src="https://id.pinterest.com/pin/609745237077973127/" width="100%" /><br>
+*  Yumemi Okazaki
+
+Favorite aspects:
+
+* ZUN's original music
+* Touhou arrange albums
+* Doujin works and fan creations
+* The creativity of the Touhou community
+
+Touhou is one of the reasons I enjoy exploring music beyond mainstream genres.
+
 ## Goal
 
 I Just Want to be Happy and Have a Lot Money
