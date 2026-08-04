@@ -35,7 +35,7 @@ A huge fan of **Touhou Project**, especially in music, characters, and doujin cu
 
 Favorite characters:
 <p>
-<img src="https://id.pinterest.com/pin/609745237077973127/" width="100%" /><br>
+<img src="[https://id.pinterest.com/pin/609745237077973127/](https://pin.it/3JVdg8edE)" width="100%" /><br>
 </p>
 *  Yumemi Okazaki
 
