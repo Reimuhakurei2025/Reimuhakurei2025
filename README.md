@@ -34,9 +34,8 @@ When I'm away from my laptop:
 A huge fan of **Touhou Project**, especially in music, characters, and doujin culture.
 
 Favorite characters:
-<p>
+
 <img src="https://pin.it/3JVdg8edE" width="100%" /><br>
-</p>
 *  Yumemi Okazaki
 
 Favorite aspects:
